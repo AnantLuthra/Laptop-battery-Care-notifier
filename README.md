@@ -11,6 +11,8 @@
 ---
 ## Setting this up for use..
 
+- Put path of where you clone this repo in your PC in variable named as `PATH` in [main.pyw](./main.pyw) file, as i've set the path.
+
 ### Clone this repository
 ```
 git clone https://github.com/AnantLuthra/Laptop-battery-Care-notifier.git
