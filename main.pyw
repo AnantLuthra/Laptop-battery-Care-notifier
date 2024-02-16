@@ -57,7 +57,7 @@ def check():
         percent = battery.percent
         pluged = battery.power_plugged
 
-        if percent >= 84 and pluged:
+        if percent >= 80 and pluged:
             notify_user("max")
 
         if percent < 35 and not pluged:
